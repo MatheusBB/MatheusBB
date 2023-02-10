@@ -7,8 +7,8 @@ Olá, eu sou Matheus Vicente😃
 <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="Mateus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  <img align="center" alt="Mateus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">   <img align="center" alt="Mateus-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Matheus&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=MatheusBB&show_icons=true" />
 </picture>
-<a href="https://github.com/Matheus/github-readme-stats">
+<a href="https://github.com/MatheusBB/github-readme-stats">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus&layout=compact)](https://github.com/Matheus/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBB&layout=compact)](https://github.com/MatheusBB/github-readme-stats)
