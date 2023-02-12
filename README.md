@@ -11,4 +11,3 @@ Olá, eu sou Matheus Vicente😃
 </picture>
 <a href="https://github.com/MatheusBB/github-readme-stats">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBB&layout=compact)](https://github.com/MatheusBB/github-readme-stats)
