@@ -17,6 +17,6 @@ Olá, eu sou Matheus Vicente😃
  
 
 
-| <a href="https://github.com/MatheusBB/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusBB&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | < 😉
+| <a href="https://github.com/MatheusBB/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusBB&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MatheusBB's github stats" /></a> | < 😉
  | ------------- | ------------- | 
 
