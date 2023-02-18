@@ -1,37 +1,25 @@
+name: Generate Datas
 
-# Este é um fluxo de trabalho básico para ajudá-lo a começar a usar o Actions
-
-nome: CI
-
-# Controla quando o fluxo de trabalho será executado
-em:
-  # Aciona o fluxo de trabalho em eventos de solicitação push ou pull, mas somente para a ramificação "principal"
-  empurrar:
-    ramificações: [ "principal" ]
-  pull_request:
-    ramificações: [ "principal" ]
-
-  # Permite que você execute esse fluxo de trabalho manualmente na guia Ações
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
   workflow_dispatch:
 
-# Uma execução de fluxo de trabalho é composta de um ou mais trabalhos que podem ser executados sequencialmente ou em paralelo
-empregos:
-  # Este fluxo de trabalho contém um único trabalho chamado "compilação"
-  construir:
-    # O tipo de corredor em que o trabalho será executado
-    runs-on: ubuntu-mais recente
+jobs:
+  build:
+    name: Jobs to update datas
+    runs-on: ubuntu-latest
+    steps:
+      # Snake Animation
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: MatheusBB
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
-    # As etapas representam uma sequência de tarefas que serão executadas como parte do trabalho
-    passos:
-      # Faz check-out do repositório em $GITHUB_WORKSPACE, para que seu trabalho possa acessá-lo
-      - usos: ações/checkout@v3
-
-      # Executa um único comando usando o shell runners
-      - nome: Executar um script de uma linha
-        corra: eco Olá, mundo!
-
-      # Executa um conjunto de comandos usando o shell runners
-      - name: Executar um script de várias linhas
-        executar: |
- echo Adicionar outras ações para construir,
- teste de eco e implante seu projeto.
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
