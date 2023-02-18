@@ -1,4 +1,11 @@
-Olá, eu sou Matheus Vicente😃
+<img align="right" width="250px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/124930107/219862890-964c2884-2150-446b-9cc0-5618c69fc695.png">
+
+</br>
+</br>
+
+<div dsplay="inline-block">
+ 
+ <h1 align="left"> Olá, eu sou Matheus Vicente😃</h1>
 
 - 🔭 Hoje trabanho com tecnologia 
 - 🌱 Estudando na Unibb e Alura 
@@ -15,8 +22,14 @@ Olá, eu sou Matheus Vicente😃
 
 
  
+<div>
 
-
-| <a href="https://github.com/MatheusBB/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusBB&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MatheusBB's github stats" /></a> | < 😉
+| <a href="https://github.com/MatheusBB"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusBB&show_icons=true&include_all_commits=true&theme=buefy&hide_private=true" alt="MatheusBB's github stats" /></a> | < 😉
  | ------------- | ------------- | 
+
+
+![Snake animation](https://github.com/MatheusBB/MatheusBB/blob/output/github-contribution-grid-snake.svg)
+
+
+
 
