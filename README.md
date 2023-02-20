@@ -27,7 +27,6 @@
 | <a href="https://github.com/MatheusBB"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusBB&show_icons=true&include_all_commits=true&theme=buefy&hide_private=true" alt="MatheusBB's github stats" /></a> | < 😉
  | ------------- | ------------- | 
 
-![Snake animation](https://github.com/MatheusBB/MatheusBB/blob/output/github-contribution-grid-snake.svg)
 
 
 
