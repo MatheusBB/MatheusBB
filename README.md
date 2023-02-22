@@ -28,7 +28,7 @@
  | ------------- | ------------- | 
 
 
-
+![Snake animation](https://github.com/MatheusBB/MatheusBB/blob/output/github-contribution-grid-snake.svg)
 
 
 
