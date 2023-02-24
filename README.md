@@ -49,3 +49,5 @@
 <br></div>
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?color=vermelhobf&size=35&center=true&vCenter=true&width=1000&center=&vCenter=&repeat=&width=435&lines=Olá,+eu+sou+Matheus+Vicente;estudo+na+Alura+e+Unibb;+Trabalhando+como+Menor+Aprendiz;no+Banco+do+Brasil;seja+bem+vido!;ao+meu+github+:%29)](https://github.com/MatheusBBgit.io/typing-svg)
