@@ -24,12 +24,11 @@
  
 <div>
 
-| <a href="https://github.com/MatheusBB"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusBB&show_icons=true&include_all_commits=true&theme=buefy&hide_private=true" alt="MatheusBB's github stats" /></a> | < 😉
+| <a href="https://github.com/MatheusBB"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusBB&show_icons=true&include_all_commits=true&theme=buefy&hide_private=true" alt="MatheusBB's github stats" /></a> | < <img align="center" alt="MatheusBB-Sparta" height="30" width="40" src="https://user-images.githubusercontent.com/124930107/221225867-82339816-8b9e-4236-b623-4856197d4d57.png">
  | ------------- | ------------- | 
 
 
-![Snake animation](https://github.com/MatheusBB/MatheusBB/blob/output/github-contribution-grid-snake.svg)
 
 
 
-
+ 
