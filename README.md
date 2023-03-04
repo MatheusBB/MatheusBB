@@ -48,7 +48,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusBB}/count.svg" /></p> 
 <br></div>
 
-  ![Snake animation](https://github.com/MatheusBB/MatheusBB/blob/output/github-contribuição-grade-cobra.svg)
+  ![Snake animation](https://github.com/MatheusBB/MatheusBB/blob/output/file:/C:/Users/Ramos/Downloads/github-contribution-grid-snake.svg)
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
   
