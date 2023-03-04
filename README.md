@@ -48,7 +48,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusBB}/count.svg" /></p> 
 <br></div>
 
-  (https://github-contribution-grid-snake.svg)
+  (https://github-contribuição-grade-cobra.svg)
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
   
