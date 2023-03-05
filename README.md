@@ -51,9 +51,9 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=yelloamarelo=35&center=true&vCenter=true&width=1000&lines=+🎶fingerstyle+guitar!;:%29)]
   
-<img align="right" width="250px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/124930107/222970983-59119d36-3481-4014-ae39-a6abcbe5b7ac.png">
- 
   
+  
+<img align="right" width="250px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/124930107/222970983-59119d36-3481-4014-ae39-a6abcbe5b7ac.png">
   <img width="180px" src="https://user-images.githubusercontent.com/124930107/222972800-00d33503-a054-4f06-82a2-b206728e90c3.gif"> 
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=140&section=footer">
