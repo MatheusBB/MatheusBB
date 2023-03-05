@@ -51,3 +51,5 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=140&section=footer">
   
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=yelloamarelo=35&center=true&vCenter=true&width=1000&lines=+🎶fingerstyle+guitar!;:%29)]
+  ![image](https://user-images.githubusercontent.com/124930107/222968238-a456f7df-73ec-4b75-881e-ccceaa70c8f1.png)
