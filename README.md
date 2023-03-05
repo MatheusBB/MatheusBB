@@ -50,5 +50,5 @@
 
 <img https://raw.githubusercontent.com/MatheusBB/MatheusBB/106479cb7a9d5291abeac4f7e8b5744a175693c0/github-contribui%C3%A7%C3%A3o-grade-cobra.svg
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<!img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
   
