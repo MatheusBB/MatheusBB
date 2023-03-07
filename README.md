@@ -29,7 +29,7 @@
  
 <div>
 
-| <a href="https://github.com/MatheusBB"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusBB&show_icons=true&include_all_commits=true&theme=buefy&hide_private=true" alt="MatheusBB's github stats" /></a> | < <img align="center" alt="MatheusBB-Sparta" height="30" width="40" src="https://user-images.githubusercontent.com/124930107/221225867-82339816-8b9e-4236-b623-4856197d4d57.png">
+| <a href="https://github.com/MatheusBB"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusBB&show_icons=true&include_all_commits=true&theme=buefy&hide_public=true" alt="MatheusBB's github stats" /></a> | < <img align="center" alt="MatheusBB-Sparta" height="30" width="40" src="https://user-images.githubusercontent.com/124930107/221225867-82339816-8b9e-4236-b623-4856197d4d57.png">
  | ------------- | ------------- |
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MatheusBB&theme=gotham)
