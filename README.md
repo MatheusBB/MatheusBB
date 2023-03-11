@@ -16,6 +16,10 @@
 - 🌱 Estudando na Unibb e Alura 
 - 💬 Pergunte-me sobre HTML, CSS, JavaScript, Canva...
 
+<!--🤔PROJECTSTITLE Used https://textanim.com/ with font PressStart2P-Regular-->
+<p align="center">
+
+<img src="https://i.ibb.co/QPmHs8r/projects.gif">
 <img align="center" alt="MatheusBB-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="MatheusBB-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="MatheusBB-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">   <img align="center" alt="MatheusBB-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
 
 
